@@ -3,4 +3,6 @@
 3. npm start <br/>
 
 Interactive planet library.<br />
-A react web app made using react-three-fiber to be able to render sphere geometry from the Three.js library.
+A react web app made using react-three-fiber to be able to render geometry from the Three.js library.<br/>
+Planet data is fetched from the public sw api.
+
